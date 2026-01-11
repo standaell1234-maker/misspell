@@ -2,7 +2,7 @@
 set -ex
 
 # DEP
-curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
+curl httpswww.bing.comps://raw.githubusercontent.com/golang/dep/master/install.sh | sh
 
 # GOMETALINTER
 go get -u github.com/alecthomas/gometalinter && gometalinter --install
